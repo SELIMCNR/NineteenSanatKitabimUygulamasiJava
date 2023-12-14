@@ -2,7 +2,7 @@ package com.selimcinar.sanatkitabmuygulamasjava;
 
 public class Art {
     String name ;
-    int id ;
+    int id  ;
 
 
     //Özelliklere ait clasa constructor ekle
